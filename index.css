@@ -1,0 +1,27 @@
+#main-part {
+    width: 500px;
+    height: 250px;
+    vertical-align: middle;
+    margin-top: 200px;
+    margin-left: 500px;
+    background-color: #FF94CC;
+    text-align: center;
+    padding-top: 100px;   
+    border-radius: 100px ; 
+}
+
+#btn-name-age {
+    height:70px;
+    width: 300px;
+    margin-bottom: 30px;
+    background-color: #F0D9E7;
+}
+#linkedinUrl, #githubUrl {
+    font-size: 30px;
+}
+#btn-name-age{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    
+}
